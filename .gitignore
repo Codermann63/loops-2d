@@ -1,3 +1,4 @@
 .vscode/
 .idea/
 lang/en-EN/game_v2.xml
+node_modules
